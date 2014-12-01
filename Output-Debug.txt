@@ -1,0 +1,5 @@
+﻿'iexplore.exe' (Script): Loaded 'Script Code (Windows Internet Explorer)'. 
+'iexplore.exe' (Script): Loaded 'http://localhost:55128/app.js'. 
+'iexplore.exe' (Script): Unloaded 'http://localhost:55128/app.js'
+The program '[16184] iexplore.exe' has exited with code 0 (0x0).
+The program '[16908] iisexpress.exe' has exited with code 0 (0x0).
